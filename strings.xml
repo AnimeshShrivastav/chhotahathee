@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">Chhota Hathee</string>
+<string name="loginText">Kindly Login or Register.</string>
+<string name="hint4mail">Type Email here</string>
+<string name="hint4pass">Type password here</string>
+<string name="hint4cell">Type Cell no. here</string>
+
+</resources>
+

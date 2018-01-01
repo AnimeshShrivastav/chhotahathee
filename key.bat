@@ -1,0 +1,1 @@
+keytool -genkeypair -validity 10000 -dname "CN=KOPT,OU=MAR,O=RS,L=KOL,S=WB,C=91" -keystore app.keystore -storepass kopt6025 -keypass kopt6025 -alias mykey -keyalg RSA -v
